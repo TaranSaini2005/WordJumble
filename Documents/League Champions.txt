@@ -1,0 +1,147 @@
+CHAMPIONS - HINT
+------------------------------------------------------------------------------
+
+1. AATROX - the darkin blade 
+2. AHRI - the nine-tailed fox
+3. AKALI - the rogue assassin
+4. ALISTAR - the minotaur
+5. AMUMU - the sad mummy 
+6. ANIVIA - the cryophoenix
+7. ANNIE - the dark child
+8. ASHE - the frost archer 
+9. AURELION SOL - the star forger
+10. AZIR - the emperor of the sands 
+11. BARD - the wandering caretaker 
+12. BLITZCRANK - the great steam golem 
+13. BRAND - the burning vengeance 
+14. BRAUM - the heart of the freljord 
+15. CAITLYN - the sheriff of piltover
+16. CAMILLE - the steel shadow  
+17. CASSIOPEIA - the serpent's embrace 
+18. CHO'GATH - the terror of the void 
+19. CORKI - the daring bombardier 
+20. DARIUS - the hand of noxus 
+21. DIANA - scorn of the moon 
+22. DR.MUNDO - the madman of zaun 
+23. DRAVEN - the glorious executioner 
+24. EKKO - the boy who shattered time 
+25. ELISE - the spider queen 
+26. EVELYNN - agony's embrace 
+27. EZREAL - the prodigal explorer 
+28. FIDDLESTICKS - the harbinger of doom  
+29. FIORA - the grand duelist 
+30. FIZZ - the tidal trickster 
+31. GALIO - the colossus
+32. GANGPLANK - the saltwater scourge  
+33. GAREN - the might of demacia 
+34. GNAR - the missing link
+35. GRAGAS - the rabble rouser   
+36. GRAVES - the outlaw 
+37. HECARIM - the shadow of war
+38. HEIMERDINGER - the revered inventor  
+39. ILLAOI - the kraken priestess
+40. IRELIA - the blade dancer 
+41. IVERN - the green father 
+42. JANNA - the storm's fury 
+43. JARVAN IV - the exemplar of demacia 
+44. JAX - grandmaster at arm
+45. JAYCE - the defender of tomorrow 
+46. JHIN - the virtuoso
+47. JINX - the loose cannon
+48. KAI'SA - daughter of the void 
+49. KALISTA - the spear of vengeance 
+50. KARMA - the enlightened one
+51. KARTHUS - the deathsinger 
+52. KASSADIN - the void walker 
+53. KATARINA - the sinister blade  
+54. KAYLE - the righteous 
+55. KAYN - the shadow reaper 
+56. KENNEN - the heart of the tempest 
+57. KHA'ZIX - the voidreaver 
+58. KINDRED - the eternal hunters 
+59. KLED - the cantankerous cavalier  
+60. KOG'MAW - the mouth of the abyss
+61. LEBLANC - the deceiver 
+62. LEE SIN - the blind monk
+63. LEONA - the radiant dawn
+64. LISSANDRA - the ice witch 
+65. LUCIAN - the purifier 
+66. LULU - the fae sorceress 
+67. LUX - the lady of luminosity  
+68. MALPHITE - shard of the monolith
+69. MALZAHAR - the prophet of the void
+70. MAOKAI - the twisted treant
+71. MASTER YI - the wuju bladesman
+72. MISS FORTUNE - the bounty hunter 
+73. MORDEKAISER - the iron revenant 
+74. MORGANA - the fallen 
+75. NAMI - the tidecaller 
+76. NASUS - the curator of the sands 
+77. NAUTILUS - the titan of the depths 
+78. NEEKO - the curious chameleon 
+79. NIDALEE - the bestial huntress 
+80. NOCTURNE - the eternal nightmare 
+81. NUNU & WILLUMP - the boy and his yeti  
+82. OLAF - the berserker 
+83. ORIANNA - the lady of clockwork
+84. ORNN - the fire below the mountain
+85. PANTHEON - the unbreakable spear
+86. POPPY - keeper of the hammer 
+87. PYKE - the bloodharbor ripper 
+88. QIYANA - empress of the elements 
+89. QUINN - demacia's wings 
+90. RAKAN - the charmer 
+91. RAMMUS - the armordillo
+92. REK'SAI - the void burrower 
+93. RENEKTON - the butcher of the sands 
+94. RENGAR - the pridestalker 
+95. RIVEN - the exile 
+96. RUMBLE - the mechanized menace 
+97. RYZE - the rune mage 
+98. SEJUANI - fury of the north 
+99. SHACO - the demon jester 
+100. SHEN - the eye of twilight 
+101. SHYVANA - the half-dragon
+102. SINGED - the mad chemist 
+103. SION - the undead juggernaut 
+104. SIVIR - the battle mistress
+105. SKARNER - the crystal vanguard 
+106. SONA - maven of the strings 
+107. SWAIN - the noxian grand general 
+108. SYLAS - the unshackled 
+109. SYNDRA - the dark sovereign 
+110. TAHM KENCH - the river king 
+111. TALIYAH - the stoneweaver 
+112. TALON - the blade's shadow 
+113. TARIC - the shield of valoran 
+114. TEEMO - the swift scout 
+115. THRESH - the chain warden 
+116. TRISTANA - the yordle gunner 
+117. TRUNDLE - the troll king 
+118. TRYNDAMERE - the barbarian king 
+119. TWISTED FATE - the card master 
+120. TWITCH - the plague rat 
+121. UDYR - the spirit walker 
+122. URGOT - the dreadnought 
+123. VARUS - the arrow of retribution
+124. VAYNE - the night hunter 
+125. VEIGAR - the tiny master of evil 
+126. VEL'KOZ - the eye of the void 
+127. VI - the piltover enforcer 
+128. VIKTOR - the machine herald 
+129. VLADIMIR - the crimson reaper 
+130. VOLIBEAR - the thunder's roar
+131. WARWICK - the uncaged wrath of zaun 
+132. WUKONG - the monkey king 
+133. XAYAH - the rebel
+134. XERATH - the magus ascendant 
+135. XIN ZHAO - the seneschal of demacia 
+136. YASUO - the unforgiven 
+137. YORICK - shepherd of souls 
+138. YUUMI - the magical cat 
+139. ZAC - the secret weapon 
+140. ZED - the master of shadows
+141. ZIGGS - the hexplosives expert
+142. ZILEAN - the chronokeeper 
+143. ZOE - the aspect of twilight 
+144. ZYRA -  rise of the thorns 
