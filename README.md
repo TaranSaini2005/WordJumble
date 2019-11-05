@@ -4,4 +4,4 @@ The aim of this game is to correctly guess all champions before the timer runs o
 Each correct guess will ofcourse add more time to the game timer. There will also be hints avaliable 
 and you can obtain more hint by correctly guessing consecutive jumbled words. 
 
-To view my code go to: WordJumbleGame/Asset/Scripts
+To view my code go to: WordJumbleGame/Assets/Scripts
